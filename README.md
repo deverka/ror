@@ -3,7 +3,7 @@
 This is a very first, trial repo, which is a part of **RoR** workshop.
 ___
 
-Quote of the day
+# Quote of the day #
 
 Tim O’Reilly, of publishers O’Reilly Media, said:
 
